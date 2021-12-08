@@ -10,7 +10,6 @@ dotenv.config();
 mongoose.connect(MONGOURI,{
     useNewUrlParser:true,
     useUnifiedTopology: true
-
 })
 mongoose.connection.on('connected',()=>{
     console.log("conneted to mongo yeahh")
