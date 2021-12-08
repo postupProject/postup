@@ -24,7 +24,7 @@ const sendresetlink = async (email, token) => {
         subject: 'password reset',
         html:`
             <p>You requested for password reset</p>
-            <h5>click in this <a href="http://localhost:3000/reset/${token}">link</a> to reset password</h5>
+            <h5>click in this <a href="https://postupspm.herokuapp.com/reset/${token}">link</a> to reset password</h5>
             `
     }).then(() => {
         console.log('Email sent')
