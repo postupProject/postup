@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap');
 
 * {
-  font-family: "Jura", "firacode", "Roboto" ,"Grand Hotel", cursive;
+    font-family: "Jura", "firacode", "Roboto", "Open Sans", "sans-serif";
 }
 
 a {
@@ -10,7 +10,7 @@ a {
 
 .brand-logo,
 h2 {
-    font-family: "Jura", "Grand Hotel", cursive;
+    font-family: "Jura", "firacode", "Roboto", "Open Sans", "sans-serif";
 }
 
 .mycard {
