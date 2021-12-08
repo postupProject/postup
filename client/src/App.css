@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
 
 * {
-  font-family: "Jura", "Grand Hotel", cursive;
+  font-family: "Jura", "firacode", "Roboto" ,"Grand Hotel", cursive;
 }
 
 a {
