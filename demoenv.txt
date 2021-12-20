@@ -1,0 +1,5 @@
+MOGOURI=here comes mongodb atlas server link
+JWT_SEC=a random secret string
+SENDGRID_API=your sendgrid api key
+EMAIL=sender's email
+NODE_ENV=dev
